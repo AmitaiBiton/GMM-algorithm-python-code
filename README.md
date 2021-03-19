@@ -1,1 +1,1 @@
-# GMM-algorithm-python-code
+# Image Processing GMM-algorithm-python-code
